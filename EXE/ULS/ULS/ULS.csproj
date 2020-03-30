@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{568C93BA-8EB0-4E6F-AFCE-54F82ADFBC32}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ULS</RootNamespace>
+    <AssemblyName>ULS</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BDDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BDDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form10_AddPostavschik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form10_AddPostavschik.Designer.cs">
+      <DependentUpon>Form10_AddPostavschik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form11_DeletePostavschik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form11_DeletePostavschik.Designer.cs">
+      <DependentUpon>Form11_DeletePostavschik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form12_AddIzgotovitel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form12_AddIzgotovitel.Designer.cs">
+      <DependentUpon>Form12_AddIzgotovitel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form13_DeleteIzgotovitel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form13_DeleteIzgotovitel.Designer.cs">
+      <DependentUpon>Form13_DeleteIzgotovitel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form14_AddPeremeschenie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form14_AddPeremeschenie.Designer.cs">
+      <DependentUpon>Form14_AddPeremeschenie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form15_DeletePeremeschenie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form15_DeletePeremeschenie.Designer.cs">
+      <DependentUpon>Form15_DeletePeremeschenie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form16_OtOSrokeGodnosti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form16_OtOSrokeGodnosti.Designer.cs">
+      <DependentUpon>Form16_OtOSrokeGodnosti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form17_OtORashodMed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form17_OtORashodMed.Designer.cs">
+      <DependentUpon>Form17_OtORashodMed.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form18_OtoRashodeMedSDate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form18_OtoRashodeMedSDate.Designer.cs">
+      <DependentUpon>Form18_OtoRashodeMedSDate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form19_OtOPriobretenii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form19_OtOPriobretenii.Designer.cs">
+      <DependentUpon>Form19_OtOPriobretenii.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form20OtPoVsemOtdeleniam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form20OtPoVsemOtdeleniam.Designer.cs">
+      <DependentUpon>Form20OtPoVsemOtdeleniam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form21OtPoOdnomuOtdeleniu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form21OtPoOdnomuOtdeleniu.Designer.cs">
+      <DependentUpon>Form21OtPoOdnomuOtdeleniu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form22_OtODvij.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form22_OtODvij.Designer.cs">
+      <DependentUpon>Form22_OtODvij.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form23_OProgramme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form23_OProgramme.Designer.cs">
+      <DependentUpon>Form23_OProgramme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form24_VibIzgotovit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form24_VibIzgotovit.Designer.cs">
+      <DependentUpon>Form24_VibIzgotovit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form25_VibFirmPost.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form25_VibFirmPost.Designer.cs">
+      <DependentUpon>Form25_VibFirmPost.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2_Prihod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2_Prihod.Designer.cs">
+      <DependentUpon>Form2_Prihod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3_VibPreparat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3_VibPreparat.Designer.cs">
+      <DependentUpon>Form3_VibPreparat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4_Rashod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4_Rashod.Designer.cs">
+      <DependentUpon>Form4_Rashod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5_VibDvij.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5_VibDvij.Designer.cs">
+      <DependentUpon>Form5_VibDvij.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form6_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6_Edit.Designer.cs">
+      <DependentUpon>Form6_Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form7_DeleteZapis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form7_DeleteZapis.Designer.cs">
+      <DependentUpon>Form7_DeleteZapis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form8_AddPreparat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form8_AddPreparat.Designer.cs">
+      <DependentUpon>Form8_AddPreparat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form9_DeletePrepapat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form9_DeletePrepapat.Designer.cs">
+      <DependentUpon>Form9_DeletePrepapat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form10_AddPostavschik.resx">
+      <DependentUpon>Form10_AddPostavschik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form11_DeletePostavschik.resx">
+      <DependentUpon>Form11_DeletePostavschik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form12_AddIzgotovitel.resx">
+      <DependentUpon>Form12_AddIzgotovitel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form13_DeleteIzgotovitel.resx">
+      <DependentUpon>Form13_DeleteIzgotovitel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form14_AddPeremeschenie.resx">
+      <DependentUpon>Form14_AddPeremeschenie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form15_DeletePeremeschenie.resx">
+      <DependentUpon>Form15_DeletePeremeschenie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form16_OtOSrokeGodnosti.resx">
+      <DependentUpon>Form16_OtOSrokeGodnosti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form17_OtORashodMed.resx">
+      <DependentUpon>Form17_OtORashodMed.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form18_OtoRashodeMedSDate.resx">
+      <DependentUpon>Form18_OtoRashodeMedSDate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form19_OtOPriobretenii.resx">
+      <DependentUpon>Form19_OtOPriobretenii.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form20OtPoVsemOtdeleniam.resx">
+      <DependentUpon>Form20OtPoVsemOtdeleniam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form21OtPoOdnomuOtdeleniu.resx">
+      <DependentUpon>Form21OtPoOdnomuOtdeleniu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form22_OtODvij.resx">
+      <DependentUpon>Form22_OtODvij.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form23_OProgramme.resx">
+      <DependentUpon>Form23_OProgramme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form24_VibIzgotovit.resx">
+      <DependentUpon>Form24_VibIzgotovit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form25_VibFirmPost.resx">
+      <DependentUpon>Form25_VibFirmPost.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2_Prihod.resx">
+      <DependentUpon>Form2_Prihod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3_VibPreparat.resx">
+      <DependentUpon>Form3_VibPreparat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4_Rashod.resx">
+      <DependentUpon>Form4_Rashod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5_VibDvij.resx">
+      <DependentUpon>Form5_VibDvij.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6_Edit.resx">
+      <DependentUpon>Form6_Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form7_DeleteZapis.resx">
+      <DependentUpon>Form7_DeleteZapis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form8_AddPreparat.resx">
+      <DependentUpon>Form8_AddPreparat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form9_DeletePrepapat.resx">
+      <DependentUpon>Form9_DeletePrepapat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="BDDataSet.xsc">
+      <DependentUpon>BDDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BDDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BDDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BDDataSet.xss">
+      <DependentUpon>BDDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\131.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="BD.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\22.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

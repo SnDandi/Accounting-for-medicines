@@ -1,0 +1,171 @@
+D:\3 курс курсовая\ULS\ULS\bin\Debug\ULS.exe.config
+D:\3 курс курсовая\ULS\ULS\bin\Debug\ULS.exe
+D:\3 курс курсовая\ULS\ULS\bin\Debug\ULS.pdb
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.csprojResolveAssemblyReference.cache
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.Form1.resources
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.Properties.Resources.resources
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.csproj.GenerateResource.Cache
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.exe
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.pdb
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.Form2_Prihod.resources
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.Form3_VibPreparat.resources
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.Form4_Rashod.resources
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.Form5_VibDvij.resources
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.Form6_Edit.resources
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.Form7_DeleteZapis.resources
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.Form8_AddPreparat.resources
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.Form10_AddPostavschik.resources
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.Form11_DeletePostavschik.resources
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.Form12_AddIzgotovitel.resources
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.Form13_DeleteIzgotovitel.resources
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.Form14_AddPeremeschenie.resources
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.Form15_DeletePeremeschenie.resources
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.Form16_OtOSrokeGodnosti.resources
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.Form9_DeletePrepapat.resources
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.Form17_OtORashodMed.resources
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.Form18_OtoRashodeMedSDate.resources
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.Form19_OtOPriobretenii.resources
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.Form20OtPoVsemOtdeleniam.resources
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.Form21OtPoOdnomuOtdeleniu.resources
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.Form22_OtODvij.resources
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.Form23_OProgramme.resources
+D:\3 курс курсовая\ULS\ULS\bin\Debug\BD.mdb
+D:\ULS\ULS\bin\Debug\ULS.exe.config
+D:\ULS\ULS\obj\Debug\ULS.exe
+D:\ULS\ULS\obj\Debug\ULS.pdb
+D:\ULS\ULS\obj\Debug\ULS.csprojResolveAssemblyReference.cache
+D:\ULS\ULS\obj\Debug\ULS.Form1.resources
+D:\ULS\ULS\obj\Debug\ULS.Form10_AddPostavschik.resources
+D:\ULS\ULS\obj\Debug\ULS.Form11_DeletePostavschik.resources
+D:\ULS\ULS\obj\Debug\ULS.Form12_AddIzgotovitel.resources
+D:\ULS\ULS\obj\Debug\ULS.Form13_DeleteIzgotovitel.resources
+D:\ULS\ULS\obj\Debug\ULS.Form14_AddPeremeschenie.resources
+D:\ULS\ULS\obj\Debug\ULS.Form15_DeletePeremeschenie.resources
+D:\ULS\ULS\obj\Debug\ULS.Form16_OtOSrokeGodnosti.resources
+D:\ULS\ULS\obj\Debug\ULS.Form17_OtORashodMed.resources
+D:\ULS\ULS\obj\Debug\ULS.Form18_OtoRashodeMedSDate.resources
+D:\ULS\ULS\obj\Debug\ULS.Form19_OtOPriobretenii.resources
+D:\ULS\ULS\obj\Debug\ULS.Form20OtPoVsemOtdeleniam.resources
+D:\ULS\ULS\obj\Debug\ULS.Form21OtPoOdnomuOtdeleniu.resources
+D:\ULS\ULS\obj\Debug\ULS.Form22_OtODvij.resources
+D:\ULS\ULS\obj\Debug\ULS.Form23_OProgramme.resources
+D:\ULS\ULS\obj\Debug\ULS.Form2_Prihod.resources
+D:\ULS\ULS\obj\Debug\ULS.Form3_VibPreparat.resources
+D:\ULS\ULS\obj\Debug\ULS.Form4_Rashod.resources
+D:\ULS\ULS\obj\Debug\ULS.Form5_VibDvij.resources
+D:\ULS\ULS\obj\Debug\ULS.Form6_Edit.resources
+D:\ULS\ULS\obj\Debug\ULS.Form7_DeleteZapis.resources
+D:\ULS\ULS\obj\Debug\ULS.Form8_AddPreparat.resources
+D:\ULS\ULS\obj\Debug\ULS.Form9_DeletePrepapat.resources
+D:\ULS\ULS\obj\Debug\ULS.Properties.Resources.resources
+D:\ULS\ULS\obj\Debug\ULS.csproj.GenerateResource.Cache
+D:\ULS\ULS\bin\Debug\BD.mdb
+D:\ULS\ULS\bin\Debug\ULS.exe
+D:\ULS\ULS\bin\Debug\ULS.pdb
+D:\ULS — копия\ULS\bin\Debug\ULS.exe.config
+D:\ULS — копия\ULS\obj\Debug\ULS.exe
+D:\ULS — копия\ULS\obj\Debug\ULS.pdb
+D:\ULS — копия\ULS\bin\Debug\BD.mdb
+D:\ULS — копия\ULS\bin\Debug\ULS.exe
+D:\ULS — копия\ULS\bin\Debug\ULS.pdb
+D:\ULS — копия\ULS\obj\Debug\ULS.csprojResolveAssemblyReference.cache
+D:\ULS — копия\ULS\obj\Debug\ULS.Form1.resources
+D:\ULS — копия\ULS\obj\Debug\ULS.Form10_AddPostavschik.resources
+D:\ULS — копия\ULS\obj\Debug\ULS.Form11_DeletePostavschik.resources
+D:\ULS — копия\ULS\obj\Debug\ULS.Form12_AddIzgotovitel.resources
+D:\ULS — копия\ULS\obj\Debug\ULS.Form13_DeleteIzgotovitel.resources
+D:\ULS — копия\ULS\obj\Debug\ULS.Form14_AddPeremeschenie.resources
+D:\ULS — копия\ULS\obj\Debug\ULS.Form15_DeletePeremeschenie.resources
+D:\ULS — копия\ULS\obj\Debug\ULS.Form16_OtOSrokeGodnosti.resources
+D:\ULS — копия\ULS\obj\Debug\ULS.Form17_OtORashodMed.resources
+D:\ULS — копия\ULS\obj\Debug\ULS.Form18_OtoRashodeMedSDate.resources
+D:\ULS — копия\ULS\obj\Debug\ULS.Form19_OtOPriobretenii.resources
+D:\ULS — копия\ULS\obj\Debug\ULS.Form20OtPoVsemOtdeleniam.resources
+D:\ULS — копия\ULS\obj\Debug\ULS.Form21OtPoOdnomuOtdeleniu.resources
+D:\ULS — копия\ULS\obj\Debug\ULS.Form22_OtODvij.resources
+D:\ULS — копия\ULS\obj\Debug\ULS.Form23_OProgramme.resources
+D:\ULS — копия\ULS\obj\Debug\ULS.Form2_Prihod.resources
+D:\ULS — копия\ULS\obj\Debug\ULS.Form3_VibPreparat.resources
+D:\ULS — копия\ULS\obj\Debug\ULS.Form4_Rashod.resources
+D:\ULS — копия\ULS\obj\Debug\ULS.Form5_VibDvij.resources
+D:\ULS — копия\ULS\obj\Debug\ULS.Form6_Edit.resources
+D:\ULS — копия\ULS\obj\Debug\ULS.Form7_DeleteZapis.resources
+D:\ULS — копия\ULS\obj\Debug\ULS.Form8_AddPreparat.resources
+D:\ULS — копия\ULS\obj\Debug\ULS.Form9_DeletePrepapat.resources
+D:\ULS — копия\ULS\obj\Debug\ULS.Properties.Resources.resources
+D:\ULS — копия\ULS\obj\Debug\ULS.csproj.GenerateResource.Cache
+D:\ULS — копия (2)\ULS\bin\Debug\ULS.exe.config
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.exe
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.pdb
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.csprojResolveAssemblyReference.cache
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.Form1.resources
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.Form10_AddPostavschik.resources
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.Form11_DeletePostavschik.resources
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.Form12_AddIzgotovitel.resources
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.Form13_DeleteIzgotovitel.resources
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.Form14_AddPeremeschenie.resources
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.Form15_DeletePeremeschenie.resources
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.Form16_OtOSrokeGodnosti.resources
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.Form17_OtORashodMed.resources
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.Form18_OtoRashodeMedSDate.resources
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.Form19_OtOPriobretenii.resources
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.Form20OtPoVsemOtdeleniam.resources
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.Form21OtPoOdnomuOtdeleniu.resources
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.Form22_OtODvij.resources
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.Form23_OProgramme.resources
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.Form2_Prihod.resources
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.Form3_VibPreparat.resources
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.Form4_Rashod.resources
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.Form5_VibDvij.resources
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.Form6_Edit.resources
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.Form7_DeleteZapis.resources
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.Form8_AddPreparat.resources
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.Form9_DeletePrepapat.resources
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.Properties.Resources.resources
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.csproj.GenerateResource.Cache
+D:\ULS — копия (2)\ULS\bin\Debug\BD.mdb
+D:\ULS — копия (2)\ULS\bin\Debug\ULS.exe
+D:\ULS — копия (2)\ULS\bin\Debug\ULS.pdb
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.Form24_VibIzgotovit.resources
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.Form25_VibFirmPost.resources
+D:\ULS — копия (2)\ULS\obj\Debug\ULS.Form26_Report.resources
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.Form24_VibIzgotovit.resources
+D:\3 курс курсовая\ULS\ULS\obj\Debug\ULS.Form25_VibFirmPost.resources
+D:\3 курс курсовая\На диск\EXE\ULS\ULS\bin\Debug\ULS.exe.config
+D:\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.exe
+D:\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.pdb
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\bin\Debug\BD.mdb
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\bin\Debug\ULS.exe.config
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\bin\Debug\ULS.exe
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\bin\Debug\ULS.pdb
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.csprojAssemblyReference.cache
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.Form1.resources
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.Form10_AddPostavschik.resources
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.Form11_DeletePostavschik.resources
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.Form12_AddIzgotovitel.resources
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.Form13_DeleteIzgotovitel.resources
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.Form14_AddPeremeschenie.resources
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.Form15_DeletePeremeschenie.resources
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.Form16_OtOSrokeGodnosti.resources
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.Form17_OtORashodMed.resources
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.Form18_OtoRashodeMedSDate.resources
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.Form19_OtOPriobretenii.resources
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.Form20OtPoVsemOtdeleniam.resources
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.Form21OtPoOdnomuOtdeleniu.resources
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.Form22_OtODvij.resources
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.Form23_OProgramme.resources
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.Form24_VibIzgotovit.resources
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.Form25_VibFirmPost.resources
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.Form2_Prihod.resources
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.Form3_VibPreparat.resources
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.Form4_Rashod.resources
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.Form5_VibDvij.resources
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.Form6_Edit.resources
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.Form7_DeleteZapis.resources
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.Form8_AddPreparat.resources
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.Form9_DeletePrepapat.resources
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.Properties.Resources.resources
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.csproj.GenerateResource.cache
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.csproj.CoreCompileInputs.cache
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.exe
+C:\Users\Pasha\Desktop\КУРСАЧИ\3 курс курсовая\На диск\EXE\ULS\ULS\obj\Debug\ULS.pdb
